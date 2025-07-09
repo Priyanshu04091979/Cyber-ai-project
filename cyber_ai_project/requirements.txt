@@ -1,0 +1,9 @@
+fastapi
+scikit-learn
+transformers
+pandas
+matplotlib
+uvicorn
+joblib
+lime
+shap

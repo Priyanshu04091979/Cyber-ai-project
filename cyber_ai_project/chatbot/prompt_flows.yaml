@@ -1,0 +1,4 @@
+incident_reporting:
+  - prompt: "Describe the suspicious activity."
+  - prompt: "When did it happen?"
+  - prompt: "Upload log or screenshot if available."
